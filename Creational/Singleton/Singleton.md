@@ -24,8 +24,7 @@ Advantages
 * Takes carte of concurrent acces to shared resource
 * Share common data (config)
 * Easy to maintain (Single global access point)
-* Reduce overhead of instantiatinmg heavy objects again and again
-* 
+* Reduce overhead of instantiating heavy objects again and again
 
 Drawbacks
 * Violate the single responsiblity principle (able to control their own creation and lifecycle)
