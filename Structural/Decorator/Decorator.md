@@ -12,7 +12,7 @@ You want to add behavior or state to individual objects at run-time. Inheritance
 
 ## UML
 
-![DecoratorUML](https://www.researchgate.net/profile/Amnon_Eden/publication/258568562/figure/fig17/AS:669479990218775@1536627876993/4-UML-Class-diagram-of-the-structure-of-the-Decorator-pattern.ppm)
+![DecoratorUML](https://miro.medium.com/max/700/1*nM0JRjh_gGvkqBZJCOInGg.png)
 
 ## Implementation
 

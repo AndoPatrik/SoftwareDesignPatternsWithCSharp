@@ -1,23 +1,21 @@
-Pattern Name (Category)
-=======
+# Pattern Name (Category)
 
-Intent
------------
+## Intent
 
-Motivation
------------
+## Motivation
 
-UML
------------
+## UML
 
-Implementation
------------
+![]()
 
-Consequences
------------
+## Implementation
 
-Known uses
------------
+## Consequences
 
-Related Patterns
------------
+Pros
+
+Cons
+
+## Known uses
+
+## Related Patterns

@@ -10,7 +10,7 @@ A framework needs to standardize the architectural model for a range of applicat
 
 ## UML
 
-![FactoryMethodUML]("https://upload.wikimedia.org/wikipedia/commons/1/1a/Factory_Method_design_pattern.png")
+![FactoryMethodUML](https://upload.wikimedia.org/wikipedia/commons/1/1a/Factory_Method_design_pattern.png)
 
 ## Implementation
 
